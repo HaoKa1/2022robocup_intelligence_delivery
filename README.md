@@ -3,8 +3,8 @@
 时间久远，有些文件可能会有错误，欢迎指正，如果内容对你有用的话，请给个小星星⭐️！
 # 介绍
 PCB硬件设计部分由[@HaoKa1](https://github.com/HaoKa1)完成  
-STM32控制代码部分由[@HaoKa1](https://github.com/HaoKa1)和Kaicheng Jin共同完成  
-建模由Donghao Wang/Dewang Chen共同完成  
+STM32控制代码部分由[@HaoKa1](https://github.com/HaoKa1)/Kaicheng Jin共同完成  
+建模由[@hallice](https://github.com/hallice)/[@cdwisaxiaobai](https://github.com/cdwisaxiaobai)共同完成  
 <img src="./images/assembly.jpg" alt="Assembly Image" width="400">
 ## 建模
 结构使用亚克力板、铝合金板材和铝型材搭建，参考models目录下的文件
